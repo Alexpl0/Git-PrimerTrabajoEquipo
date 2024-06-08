@@ -1,0 +1,7 @@
+{
+    "cmake.useCMakePresets": "always",
+    "cmake.allowCommentsInPresetsFile": true,
+
+    "makefile.compileCommandsPath": ".vscode/compile_commands.json"
+    
+}
