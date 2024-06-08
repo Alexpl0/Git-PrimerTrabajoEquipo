@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/JesusAdrianMaganaGomez/Desktop/INGSS5/Tópicos Avanzados de Programación/Git-PrimerTrabajoEquipo",
+      "program": "/Users/JesusAdrianMaganaGomez/Desktop/INGSS5/Tópicos Avanzados de Programación/Git-PrimerTrabajoEquipo/build/Debug/outDebug"
+    }
+  ]
+}
